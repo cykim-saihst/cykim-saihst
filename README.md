@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=300&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=90&fontColor=fc1e68)
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=300&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=90&fontColor=fc1e68" alt="Welcome Banner">
+</div>
+
 
 <h3 align="center">🥐 Tech Stack </h3>
 <div align="center">
