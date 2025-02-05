@@ -4,7 +4,9 @@
 
 <br>
 
-<h2 align="center">🥯 Interest </h2>
+<div align="center">
+  <span style="font-size: 32px; font-weight: bold;">🥯 Interest </span>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/🧬Bioinformatics-F3F3F3.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/🧫multiomics-F3F3F3.svg?style=for-the-badge" />&nbsp
@@ -18,7 +20,9 @@
 
 <br>
 
-<h2 align="center">🥐 Tech Stack </h2>
+<div align="center">
+  <span style="font-size: 32px; font-weight: bold;">🥐 Tech Stack </span>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
@@ -32,7 +36,9 @@
 
 <br>
 
-<h2 align="center">🥞 Tools </h2>
+<div align="center">
+  <span style="font-size: 32px; font-weight: bold;">🥞 Tools </span>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -46,7 +52,10 @@
 
 <br>
 
-<h2 align="center">🥨 Contact </h2>
+<div align="center">
+  <span style="font-size: 32px; font-weight: bold;">🥨 Contact</span>
+</div>
+
 <div align="center">
   </a>
   <a href="mailto:cxyz.kim@gmail.com">
