@@ -53,3 +53,8 @@
   </a>
 </div>
 
+![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cykim-saihst)](https://github.com/cykim-saihst/github-readme-stats)
+
+
