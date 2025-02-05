@@ -20,7 +20,7 @@
 <h3 align="center">🥯 Interest </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/🧬Bioinformatics-F3F3F3.svg?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/🧫Genetics-F3F3F3.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/🧫multiomics-F3F3F3.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/🧪GWAS-F3F3F3.svg?style=for-the-badge" />&nbsp
 </div>
 
