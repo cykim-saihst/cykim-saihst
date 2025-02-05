@@ -53,7 +53,7 @@
   </a>
   <a href="mailto:cxyz.kim@gmail.com">
     <img
-      src="https://img.shields.io/badge/cxyz.kim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/cxyz.kim@gmail.com-fc1e68?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
