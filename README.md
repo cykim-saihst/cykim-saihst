@@ -54,7 +54,7 @@
       src="https://img.shields.io/badge/cxyz.kim@gmail.com-fc1e68?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
-<hr>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=panda" height="150px" style="display: inline-block; margin-right: 10px;"/>
