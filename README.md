@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=150&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=70&fontColor=fc1e68" alt="Welcome Banner">
 </div>
 
-<hr>
+<br>
 
 <h3 align="center">🥯 Interests </h3>
 <div align="center">
