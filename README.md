@@ -56,8 +56,6 @@
 
 <br>
 
-###stat
-<h2 align="center">🥨 Contact </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=panda" height="150px" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykim-saihst&layout=compact&theme=panda" height="150px" style="display: inline-block;"/>
