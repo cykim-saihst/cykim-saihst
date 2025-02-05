@@ -2,21 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=250&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=75&fontColor=fc1e68" alt="Welcome Banner">
 </div>
 
-
-<h3 align="center">🥐 Tech Stack </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-</div>
-
-<br>
-
 <h3 align="center">🥯 Interest </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/🧬Bioinformatics-F3F3F3.svg?style=for-the-badge" />&nbsp
@@ -28,6 +13,20 @@
   <img src="https://img.shields.io/badge/🖥️LLM-F3F3F3.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/📈CausalML-F3F3F3.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/🩻Multimodal-F3F3F3.svg?style=for-the-badge" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">🥐 Tech Stack </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
 <br>
