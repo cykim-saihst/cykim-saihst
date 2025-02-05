@@ -1,6 +1,17 @@
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=250&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=75&fontColor=fc1e68" alt="Welcome Banner">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=250&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=60&fontColor=fc1e68" alt="Welcome Banner">
 </div>
+
+<br>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=panda" height="150px" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykim-saihst&layout=compact&theme=panda" height="150px" style="display: inline-block;"/>
+</div>
+
+<br>
+
 
 <h3 align="center">🥯 Interest </h3>
 <div align="center">
@@ -52,8 +63,5 @@
       src="https://img.shields.io/badge/cxyz.kim@gmail.com-fc1e68?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=panda" height="150px" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykim-saihst&layout=compact&theme=panda" height="100px" style="display: inline-block;"/>
-</div>
+
+
