@@ -5,14 +5,14 @@
 
 <h3 align="center">🥐 Tech Stack </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-F3F3F3.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-F3F3F3.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />&nbsp
-  <img src="https://img.shields.io/badge/R-F3F3F3.svg?style=for-the-badge&logo=r&logoColor=276DC3" />&nbsp
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-2C2C32.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
-  <img src="https://img.shields.io/badge/Linux-2C2C32.svg?style=for-the-badge&logo=linux&logoColor=FCC624" />&nbsp
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
 <br>
