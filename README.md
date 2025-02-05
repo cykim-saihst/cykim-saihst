@@ -2,6 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=250&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=75&fontColor=fc1e68" alt="Welcome Banner">
 </div>
 
+<table align="center" border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=radical" height="180px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykim-saihst&layout=compact&theme=radical" height="180px"/></td>
+  </tr>
+</table>
+
 <h3 align="center">🥯 Interest </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/🧬Bioinformatics-F3F3F3.svg?style=for-the-badge" />&nbsp
@@ -51,11 +58,3 @@
     <img
       src="https://img.shields.io/badge/cxyz.kim@gmail.com-fc1e68?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=radical" height="180px"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykim-saihst&layout=compact&theme=radical" height="180px"/></td>
-  </tr>
-</table>
-
