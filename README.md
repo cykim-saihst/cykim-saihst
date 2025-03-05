@@ -56,8 +56,6 @@
 
 <hr>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=panda" height="150px" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykim-saihst&layout=compact&theme=panda" height="150px" style="display: inline-block;"/>
@@ -65,4 +63,4 @@
 
 <br>
 
-
+![](./profile-3d-contrib/profile-gitblock.svg)
