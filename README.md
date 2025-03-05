@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=150&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=60&fontColor=fc1e68" alt="Welcome Banner">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=180&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=70&fontColor=fc1e68" alt="Welcome Banner">
 </div>
 
 <br>
