@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=150&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=70&fontColor=fc1e68" alt="Welcome Banner">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffcecc&height=150&section=header&text=Welcome%20to-nl-Chaeyeon's%20Github&fontSize=60&fontColor=fc1e68" alt="Welcome Banner">
 </div>
 
 <br>
@@ -55,6 +55,7 @@
   </a>
 
 <hr>
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cykim-saihst&show_icons=true&theme=panda" height="150px" style="display: inline-block; margin-right: 10px;"/>
@@ -63,4 +64,4 @@
 
 <br>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+
